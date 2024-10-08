@@ -1,2 +1,2 @@
 # MazeRunnerProject
-(OpenGL Project) - Creación de un laberinto 3D
+(OpenGL Project) - Creation of a 3D maze
